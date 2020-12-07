@@ -1,6 +1,7 @@
 # Charity Analysis using Neural Network
 
-The goal of the project is to build a binary classifier model that predicts whether an application asking for funding from Alphabet Soup will be successful or not using machine learning and neural networks. 
+The goal of the project is to build a binary classifier model with atleast 74% accuracy that predicts whether an application asking for funding from Alphabet Soup will be successful or not using machine learning and neural networks.
+ 
 
 The [data file]("Resources\charity_data.csv") contains more than 34,000 organizations that have received funding from Alphabet Soup over the years. Within this dataset are a number of columns that capture metadata about each organization, such as the following:
 
@@ -17,6 +18,7 @@ The [data file]("Resources\charity_data.csv") contains more than 34,000 organiza
 - IS_SUCCESSFUL—Was the money used effectively
 <br>
 <br>
+
 ## Results
 
 ### Data Preprocessing
